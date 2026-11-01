@@ -1,2 +1,2 @@
 # nusa_trade
-Projeject NUSA_TRADE untuk ekspor impor
+Project NUSA_TRADE untuk ekspor impor
